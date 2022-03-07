@@ -6,13 +6,13 @@ func search(nums []int, target int) int {
 	left := 0
 	right := len(nums) - 1
 	for left <= right {
-		mid := left + (right-left)/2
+		mid := left + (right-left)/2 // 防止直接相加造成溢出
 		if nums[mid] == target {
 			return mid
 		} else if nums[mid] < target {
-			left = mid + 1
+			left = mid + 1 // target 在右区间[mid + 1, right]
 		} else {
-			right = mid - 1
+			right = mid - 1 // target 在左区间[left, mid - 1]
 		}
 	}
 	return -1
