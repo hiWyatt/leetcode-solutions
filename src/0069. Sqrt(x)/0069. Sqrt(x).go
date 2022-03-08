@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"time"
 )
 
 func mySqrt(x int) int {
@@ -25,8 +24,5 @@ func mySqrt(x int) int {
 
 func main() {
 	x := 8
-	start := time.Now()
 	fmt.Println(mySqrt(x))
-	spendTime := time.Since(start)
-	fmt.Println(spendTime)
 }
