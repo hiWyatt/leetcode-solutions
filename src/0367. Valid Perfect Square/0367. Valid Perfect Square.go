@@ -8,7 +8,7 @@ func isPerfectSquare(num int) bool {
 	}
 	left, right := 1, num/2
 	for left <= right {
-		mid := left + (right-left)>>2
+		mid := left + ((right - left) >> 1)
 		if mid*mid == num {
 			return true
 		} else if mid*mid < num {
