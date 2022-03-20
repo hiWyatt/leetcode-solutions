@@ -56,6 +56,7 @@ func (this *MyQueue) Peek() int {
 	return result
 }
 
+// Empty 判断队空
 func (this *MyQueue) Empty() bool {
 	if len(this.stackIn) == 0 && len(this.stackOut) == 0 {
 		return true
