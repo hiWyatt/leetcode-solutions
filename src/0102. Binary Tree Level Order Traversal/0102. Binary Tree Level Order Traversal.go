@@ -20,13 +20,13 @@ func levelOrder(root *TreeNode) [][]int {
 	// 根节点入队
 	queue = append(queue, root)
 	// 遍历二叉树
-	for i := 0; len(queue) > 0; i++ {
+	for len(queue) > 0 {
 		// 记录当前层节点数
 		l := len(queue)
 		// 用临时切片存储每层节点的数值
 		tempSlice := make([]int, 0)
 		// 遍历一层
-		for j := 0; j < l; j++ {
+		for i := 0; i < l; i++ {
 			// 若当前节点有子节点,则入队
 			if queue[0].Left != nil {
 				// 左子节点入队
