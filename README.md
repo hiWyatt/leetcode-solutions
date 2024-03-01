@@ -127,4 +127,9 @@
 | 0072 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | / | / | [Blog](https://wangyi.one/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB) | Medium | 动规 | 字符串 |
 | 0647 | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | / | / | [Blog](https://wangyi.one/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2) | Medium | 动规 | 字符串 |
 | 0516 | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | / | / | [Blog](https://wangyi.one/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97) | Medium | 动规 | 字符串 |
+| 0739 | [每日温度](https://leetcode.cn/problems/daily-temperatures/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6) | Medium | 单调栈 | 数组 |
+| 0496 | [下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0-i) | Easy | 单调栈 | 数组、哈希表 |
+| 0503 | [下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0-ii) | Medium | 单调栈 | 数组 |
+| 0042 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E6%8E%A5%E9%9B%A8%E6%B0%B4) | Hard | 单调栈 | 数组 |
+| 0084 | [柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2) | Hard | 单调栈 | 数组 |
 
