@@ -132,4 +132,17 @@
 | 0503 | [下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0-ii) | Medium | 单调栈 | 数组 |
 | 0042 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E6%8E%A5%E9%9B%A8%E6%B0%B4) | Hard | 单调栈 | 数组 |
 | 0084 | [柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/) | / | / | [Blog](https://wangyi.one/%E5%8D%95%E8%B0%83%E6%A0%88/#%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2) | Hard | 单调栈 | 数组 |
+| 0797 | [所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84) | Medium | DFS | 图 |
+| 0200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F) | Medium | DFS | 数组 |
+| 0695 | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF) | Medium | DFS | 数组 |
+| 1020 | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E9%A3%9E%E5%9C%B0%E7%9A%84%E6%95%B0%E9%87%8F) | Medium | DFS | 数组 |
+| 0130 | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F) | Medium | DFS | 数组 |
+| 0417 | [太平洋大西洋水流问题](https://leetcode.cn/problems/pacific-atlantic-water-flow/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B0%B4%E6%B5%81%E9%97%AE%E9%A2%98) | Medium | DFS | 数组 |
+| 0827 | [最大人工岛](https://leetcode.cn/problems/making-a-large-island/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E6%9C%80%E5%A4%A7%E4%BA%BA%E5%B7%A5%E5%B2%9B) | Hard | DFS | 数组 |
+| 0127 | [单词接龙](https://leetcode.cn/problems/word-ladder/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99) | Hard | BFS | 字符串、哈希表 |
+| 0841 | [钥匙和房间](https://leetcode.cn/problems/keys-and-rooms/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E9%92%A5%E5%8C%99%E5%92%8C%E6%88%BF%E9%97%B4) | Medium | BFS | 图 |
+| 0463 | [岛屿的周长](https://leetcode.cn/problems/island-perimeter/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF) | Easy | DFS | 数组 |
+| 1971 | [寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%AF%BB%E6%89%BE%E5%9B%BE%E4%B8%AD%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E8%B7%AF%E5%BE%84) | Easy | 并查集 | 图 |
+| 0684 | [冗余连接](https://leetcode.cn/problems/redundant-connection/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5) | Medium | 并查集 | 图 |
+| 0685 | [冗余连接 II](https://leetcode.cn/problems/redundant-connection-ii/) | / | / | [Blog](https://wangyi.one/%E5%9B%BE%E8%AE%BA/#%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5-ii) | Hard | 并查集 | 图 |
 
