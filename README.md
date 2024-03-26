@@ -38,6 +38,13 @@
 | 0454 | [四数相加 II](https://leetcode.cn/problems/4sum-ii/) | [Blog](https://wangyi.one/%E5%93%88%E5%B8%8C%E8%A1%A8/#%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0-ii) | Medium | 哈希表 | 数组 |
 | 0015 | [三数之和](https://leetcode.cn/problems/3sum/) | [Blog](https://wangyi.one/%E5%93%88%E5%B8%8C%E8%A1%A8/#%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C) | Medium | 双指针 | 数组 |
 | 0018 | [四数之和](https://leetcode.cn/problems/4sum/) | [Blog](https://wangyi.one/%E5%93%88%E5%B8%8C%E8%A1%A8/#%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C) | Medium | 双指针 | 数组 |
+| 0344 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2) | Easy | 双指针 | 字符串 |
+| 0541 | [反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2-ii) | Easy | 双指针 | 字符串 |
+| / | [替换数字](https://kamacoder.com/problempage.php?pid=1064) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97) | / | / | 字符串 |
+| 0151 | [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D) | Medium | 双指针 | 字符串 |
+| / | [右旋字符串](https://kamacoder.com/problempage.php?pid=1065) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E5%8F%B3%E6%97%8B%E5%AD%97%E7%AC%A6%E4%B8%B2) | / | / | 字符串 |
+| 0028 | [找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E6%89%BE%E5%87%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8C%B9%E9%85%8D%E9%A1%B9%E7%9A%84%E4%B8%8B%E6%A0%87) | Easy | KMP、字符串匹配 | 字符串 |
+| 0459 | [重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/) | [Blog](https://wangyi.one/%E5%AD%97%E7%AC%A6%E4%B8%B2/#%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2) | Easy | 字符串匹配 | 字符串 |
 | 0232 | Implement Queue using Stacks | Blog | Easy | 设计 | 栈、队列 |
 | 0225 | Implement Stack using Queues | Blog | Easy | 设计 | 栈、队列 |
 | 0020 | Valid Parentheses | Blog | Easy | 栈 | 字符串 |
